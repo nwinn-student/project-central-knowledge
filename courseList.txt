@@ -1,0 +1,46 @@
+Format: 
+<[subject]>
+<number : name : university>
+	<pre-requisites>.  <description>.  <potential book suggestion(s)>.
+
+Note: Some courses discovered will be removed since they are utilizing programming languages specifically, which matters not in this non-exhaustive list.  Course names and numbers are not consistent across universities, so I will be attempting to rectify these flaws upon completion.  The university catalogs that I look through first shall gain the credit of housing the course, even though there are multiple universities that house such a course.  As many universities have duplicate courses for undergraduate and graduate students, only the undergraduate will be considered, so long as the course description remains constant.
+
+[First Pass] - I shall be obtaining a slew of course names.
+[Second Pass] - I shall be condensing the courses and adding the pre-requisites.
+[Third Pass] - I shall be adding descriptions of the courses and further condensing if necessary.
+[Fourth Pass] - I shall find books relating to the concepts, and may adjust the name of the course to suite the name of the obtained book(s) so that the user can search for books easier.  The university names associated with the course names shall be removed at this point, should the course name change.
+[Fifth Pass] - I shall organize each section in a collection of HTML web pages such that the searcher is not overwhelmed.
+
+CURRENT : [First Pass]
+EXPECTED DURATION : 1 month
+
+[Math]
+101 : Introduction to Contemporary Mathematical Ideas : Tennessee Technological University
+
+[Applied Math]
+301 : Beginning Scientific Computing : Washington University
+342 : Introduction to Neural Coding and Computation : Washington University
+351 : Introduction to Differential Equations and Applications : Washington University
+352 : Applied Linear Algebra and Numberical Analysis : Washington University
+353 : Partial Differential Equations and Waves : Washington University
+383 : Introduction to Continuous Mathematical Modeling : Washington University
+401 : Vector Calculus and Complex Variables : Washington University
+402 : Introduction to Dynamical Systems and Chaos : Washington University
+403 : Methods for Partial Differential Equations : Washington University
+422 : Computational Modeling of Biological Systems : Washington University
+423 : Mathematical Analysis in Biology and Medicine : Washington University
+481 : Scientific Computing : Washington University
+482 : Computational Methods for Data Analysis : Washington University
+483 : High-Performance Scientific Computing : Washington University
+505 : Introduction to Fluid Dynamics : Washington University
+507 : Calculus of Variations : Washington University
+514 : Network and Combinatorial Optimization : Washington University
+515 : Optimization: Fundamentals and Applications : Washington University
+516 : Numerical Optimization : Washington University
+518 : Theory of Optimal Control : Washington University
+-- Halted here
+
+
+[Computer Science]
+107 : Elementary Programming : Tennessee Technological University
+110 : Introduction to Computing : Tennessee Technological University
