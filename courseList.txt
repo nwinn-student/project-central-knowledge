@@ -12,7 +12,7 @@ Note: Some courses discovered will be removed since they are utilizing programmi
 [Fifth Pass] - I shall organize each section in a collection of HTML web pages such that the searcher is not overwhelmed.
 
 CURRENT : [First Pass]
-EXPECTED DURATION : 1 month
+EXPECTED DURATION : Uncertain
 
 [Math]
 101 : Introduction to Contemporary Mathematical Ideas : Tennessee Technological University
