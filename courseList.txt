@@ -16,6 +16,49 @@ EXPECTED DURATION : 1 month
 
 [Math]
 101 : Introduction to Contemporary Mathematical Ideas : Tennessee Technological University
+1010 : Mathematics in the Modern World : UTC
+1130 : College Algebra : UTC
+1710 - Precalculus I : UTC
+1720 - Precalculus II : UTC
+2030 - Discrete Mathematics for Computer Science : UTC
+2100 - Introductory Statistics : UTC
+2200 - Elementary Linear Algebra : UTC
+2300 - Mathematical Models, Functions, and Applications : UTC
+2450 - Introduction to Differential and Difference Equations : UTC
+3000 - Introduction to Logic and Proof : UTC
+3100 - Applied Statistics : UTC
+3250 - Introduction to Modern Algebra : UTC
+3510 - Introduction to Analysis I : UTC
+4000 - The Historical Development of Mathematics : UTC
+4010 - Basic Concepts of Geometry
+4050 - Introduction to Point Set Topology
+4130 - Introduction to Probability and Statistics
+4140 - Mathematical Statistics (QR)
+4160 - Applied Statistical Methods
+4200 - Linear Algebra and Matrix Theory
+4250 - Modern Algebra I
+4270 - Elementary Number Theory
+4300 - Mathematics of Interest
+4310 - Mathematical Programming II
+4320 - Operations Research (Non-Linear)
+4460 - Partial Differential Equations
+MATH 4510 - Introduction to Analysis II
+MATH 4570 - Introduction to Complex Variables
+MATH 4600 - Introduction to Numerical Analysis
+MATH 4700 - Techniques of Applied Mathematics
+MATH 4720 - Introduction to Graph Theory
+
+1950 - Calculus with Analytic Geometry I
+1960 - Calculus with Analytic Geometry II
+2560 - Calculus with Analytic Geometry III
+4170 - Nonparametric Statistics
+3820 - Communicating Mathematics
+4350 - Mathematics of Finance
+3310 - Mathematical Programming I
+4060 - Applied Knot Theory
+3720 - Mathematical Concepts in Quantum Information Science & Technology
+3810 - Introduction to Quantum Information Science and Technology
+
 
 [Applied Math]
 301 : Beginning Scientific Computing : Washington University
